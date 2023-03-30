@@ -1,0 +1,27 @@
+table{
+    border: 5px solid black;
+    color: red;
+
+
+}
+body{
+    background-color: rgb(247, 195, 123);
+}
+
+tr,th{
+    background-color: rgb(185, 238, 238);
+    color: black;
+    
+
+}
+p{
+    font-style: italic;
+    font-weight: 300;
+    background-color: rgb(246, 189, 189);
+    
+}
+
+h2{
+    color: blueviolet;
+    background-color: rgb(216, 181, 250);
+}
